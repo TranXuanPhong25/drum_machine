@@ -96,8 +96,8 @@ function App() {
     <div className="App">
       <Paper elevation={6} sx={{ display: 'flex', padding: 3 }}>
         <Box sx={{
-          width: 300,
-          height: 300,
+          width: 280,
+          height: 280,
           display: 'grid',
           gridTemplateColumns: '1fr 1fr 1fr',
           gap: 1
@@ -118,7 +118,7 @@ function App() {
 
         <Box sx={{
           marginLeft: 3,
-          width: 150
+          width: 140
         }
         }>
           {/* <Typography variant="button" textAlign="center" display="block" component="h1">
